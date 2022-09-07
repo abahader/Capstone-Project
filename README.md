@@ -42,3 +42,12 @@ In conclusion, we used three models for regression and four models for classific
 Using Machine Learning on used cars dataset can make a big impact in the used cars market as there is many models can be used beside the two models, we made to more predictions that will lead to more efficient process by having a future sight and more clear vision of the future market of used cars in Saudi Arabia.
 [Capstone Reporting (1).docx](https://github.com/LameesAlotaibi/Capstone-Project/files/9508242/Capstone.Reporting.1.docx)
 
+Links:
+Dataset:
+https://www.kaggle.com/datasets/turkibintalib/saudi-arabia-used-cars-dataset
+code&web blog:
+https://github.com/LameesAlotaibi/Capstone-Project
+power bi:
+https://app.powerbi.com/links/uB4U1Bb891?ctid=ed6d8a7a-6069-48d8-8b16-4b119276afef&pbi_source=linkShare 
+Gant chart:
+https://app.clickup.com/36919424/v/g/136p40-163 
